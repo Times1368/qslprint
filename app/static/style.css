@@ -1,0 +1,99 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Microsoft YaHei", "PingFang SC", sans-serif; background: #f2f2f2; color: #222; }
+header { background: #1a3a5c; color: #fff; padding: 12px 20px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+header h1 { font-size: 20px; margin: 0; }
+header .sub { font-size: 13px; opacity: .85; }
+nav.tabs { display: flex; gap: 4px; padding: 0 20px; background: #fff; border-bottom: 1px solid #ddd; position: sticky; top: 0; z-index: 10; }
+nav.tabs button { border: none; background: none; padding: 12px 18px; font-size: 15px; cursor: pointer; border-bottom: 3px solid transparent; }
+nav.tabs button.active { border-bottom-color: #1a3a5c; font-weight: bold; color: #1a3a5c; }
+main { padding: 16px 20px 60px; max-width: 1100px; margin: 0 auto; }
+.toolbar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 14px; background: #fff; padding: 10px 14px; border: 1px solid #ddd; border-radius: 6px; }
+.toolbar .seg { display: inline-flex; border: 1px solid #999; border-radius: 4px; overflow: hidden; }
+.toolbar .seg button { border: none; background: #fff; padding: 6px 12px; cursor: pointer; font-size: 14px; }
+.toolbar .seg button.on { background: #1a3a5c; color: #fff; }
+button.btn { padding: 7px 14px; font-size: 14px; cursor: pointer; border: 1px solid #1a3a5c; background: #1a3a5c; color: #fff; border-radius: 4px; }
+button.btn.ghost { background: #fff; color: #1a3a5c; }
+button.btn.danger { background: #b3261e; border-color: #b3261e; }
+button.btn:disabled { opacity: .5; cursor: not-allowed; }
+.count { font-size: 14px; color: #555; }
+.hint { font-size: 13px; color: #666; line-height: 1.6; }
+.badge { display: inline-block; background: #c00; color: #fff; font-size: 12px; padding: 1px 7px; border-radius: 10px; margin-left: 4px; }
+.badge.warn { background: #b26a00; }
+.badge.ok { background: #2e7d32; }
+.badge.grey { background: #888; }
+
+/* ---------- QSL 卡片 ---------- */
+.card-wrap { position: relative; background: #fff; border: 1px solid #ccc; margin: 0 auto 18px; width: 680px; max-width: 100%; padding: 18px 22px; }
+.card-check { position: absolute; top: 6px; left: 6px; transform: scale(1.4); }
+.card-head { display: flex; gap: 14px; align-items: flex-start; }
+.card-head img.logo { width: 78px; }
+.card-title { flex: 1; text-align: center; }
+.card-title .cn { font-size: 30px; font-weight: bold; letter-spacing: 4px; }
+.card-title .en { font-size: 14px; letter-spacing: 1px; margin-top: 2px; }
+.card-title .call { font-size: 52px; font-weight: bold; letter-spacing: 10px; margin-top: 4px; }
+.card-title .morse { font-size: 15px; letter-spacing: 6px; }
+.card-right { width: 150px; font-size: 14px; }
+.card-right .cb { font-size: 15px; }
+.to-radio { border: 2px solid #000; padding: 6px 8px; margin-top: 6px; min-height: 74px; font-size: 20px; font-weight: bold; }
+.to-radio .lbl { font-size: 15px; font-style: italic; font-weight: normal; }
+.qsl-table { width: 100%; border-collapse: collapse; margin-top: 14px; }
+.qsl-table th, .qsl-table td { border: 2px solid #000; padding: 6px 8px; text-align: center; font-size: 15px; }
+.qsl-table th { background: #fff; font-size: 15px; }
+.qsl-table td { height: 44px; }
+.qsl-table td[contenteditable] { outline: 1px dashed #9db8d2; }
+.qsl-table td[contenteditable]:focus { outline: 2px solid #1a3a5c; background: #f4f8ff; }
+.qsl-table .mini-cb { color: #999; font-size: 13px; }
+.qsl-table .mini-cb b { color: #000; }
+.card-foot { display: flex; gap: 14px; margin-top: 12px; align-items: flex-start; }
+.card-foot img.qr { width: 84px; }
+.card-foot .addr { flex: 1; font-size: 15px; line-height: 1.7; }
+.card-foot .right { text-align: right; font-size: 15px; line-height: 1.8; }
+.card-foot .op { font-size: 20px; margin-top: 8px; }
+
+/* ---------- 信封 ---------- */
+.env-face { position: relative; background: #fff; border: 1px solid #aaa; margin: 0 auto 18px; overflow: hidden; }
+.env-check { position: absolute; top: 6px; left: 6px; transform: scale(1.4); z-index: 3; }
+.env-postcode { position: absolute; top: 8%; left: 6%; display: flex; gap: 2px; }
+.env-postcode span { display: inline-block; width: 22px; height: 26px; border: 1.5px solid #c00; color: #c00; text-align: center; line-height: 26px; font-size: 17px; font-weight: bold; }
+.env-stamp { position: absolute; top: 6%; right: 5%; width: 22%; height: 26%; border: 1.5px dashed #bbb; color: #bbb; font-size: 12px; display: flex; align-items: center; justify-content: center; text-align: center; }
+.env-recv-addr { position: absolute; top: 38%; left: 8%; right: 8%; font-size: 19px; line-height: 1.6; }
+.env-recv-name { position: absolute; top: 62%; left: 8%; right: 8%; font-size: 21px; font-weight: bold; }
+.env-sender { position: absolute; bottom: 7%; right: 6%; text-align: right; font-size: 13px; line-height: 1.6; color: #333; }
+.env-flag { position: absolute; bottom: 7%; left: 6%; color: #c00; font-size: 13px; }
+
+/* ---------- 数据表 ---------- */
+table.data { width: 100%; border-collapse: collapse; background: #fff; font-size: 14px; }
+table.data th, table.data td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
+table.data th { background: #eef2f6; }
+table.data input, table.data select { width: 100%; padding: 4px; font-size: 14px; }
+form.inline { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; background: #fff; border: 1px solid #ddd; padding: 12px; border-radius: 6px; margin-bottom: 14px; }
+form.inline input, form.inline select { padding: 6px; font-size: 14px; }
+form.inline label { font-size: 14px; }
+section.block { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 14px; margin-bottom: 18px; }
+section.block h3 { margin: 0 0 10px; font-size: 16px; }
+.pager { text-align: center; margin: 10px 0 20px; }
+.pager button { margin: 0 3px; padding: 5px 11px; cursor: pointer; }
+.pager button.on { background: #1a3a5c; color: #fff; border: 1px solid #1a3a5c; }
+#toast { position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%); background: #222; color: #fff; padding: 9px 18px; border-radius: 4px; font-size: 14px; display: none; z-index: 50; }
+
+/* ---------- 打印 ---------- */
+#printArea { display: none; }
+@page { size: A4; margin: 8mm; }
+@media print {
+  body { background: #fff; }
+  body > *:not(#printArea) { display: none !important; }
+  #printArea { display: block; }
+  .print-card { width: 182mm; height: 92mm; margin: 0 auto 4mm; page-break-inside: avoid; }
+  .print-card:nth-child(3n) { page-break-after: always; }
+  .print-card .card-wrap { width: 100%; border: none; margin: 0; padding: 0; }
+  .print-card .card-check, .print-card .card-head img.logo { display: block; }
+  .print-card .card-check { display: none; }
+  .print-card .card-title .cn { font-size: 22pt; }
+  .print-card .card-title .call { font-size: 34pt; }
+  .print-card .to-radio { border: none; padding: 0; min-height: 0; }
+  .print-card .to-radio .lbl { display: none; }
+  .print-card .qsl-table td[contenteditable] { outline: none; }
+  .print-env { page-break-after: always; margin: 0 auto; position: relative; background: #fff; overflow: hidden; }
+  .print-env .env-check, .print-env .env-stamp { display: none; }
+  .print-env .env-postcode span { border-color: #c00; }
+}

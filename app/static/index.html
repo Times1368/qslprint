@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QSL 卡片与信封打印 · BH6AJS</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <h1>QSL 卡片与信封打印</h1>
+  <span class="sub">BH6AJS · QTH OM72 · CQ 24 / ITU 44</span>
+  <span class="sub" id="statLine">加载中…</span>
+</header>
+<nav class="tabs">
+  <button data-tab="cards" class="active">卡片</button>
+  <button data-tab="envs">信封</button>
+  <button data-tab="data">数据</button>
+  <button data-tab="adif">导入 ADIF</button>
+</nav>
+<main>
+  <!-- ================= 卡片 ================= -->
+  <section id="tab-cards">
+    <div class="toolbar">
+      <span>卡片版式：</span>
+      <span class="seg" id="verSeg">
+        <button data-ver="2025" class="on">2025版</button>
+        <button data-ver="2024">2024版</button>
+      </span>
+      <span>时间：</span>
+      <span class="seg" id="tzSeg">
+        <button data-tz="UTC">UTC</button>
+        <button data-tz="BJT" class="on">北京时间</button>
+      </span>
+      <button class="btn ghost" id="cardSelAll">全选</button>
+      <button class="btn ghost" id="cardSelNone">全不选</button>
+      <button class="btn" id="cardPrint">打印选中卡片</button>
+      <button class="btn ghost" id="cardDocx">导出 Word</button>
+      <span class="count" id="cardCount"></span>
+    </div>
+    <p class="hint">卡片一张对应一条通联记录，不去重；除日期、时间（按所选时区换算显示）外，每格内容可直接点击修改，改完自动保存，日期、时间请在数据页修改。QTH 统一为寄件人自己的网格定位 OM72。打印时每页 A4 排 3 张；TO RADIO 只印呼号、不印框（实物卡自带印框）。</p>
+    <div id="cardList"></div>
+    <div class="pager" id="cardPager"></div>
+  </section>
+
+  <!-- ================= 信封 ================= -->
+  <section id="tab-envs" style="display:none">
+    <div class="toolbar">
+      <span>信封规格（国标 GB/T 1416 西式）：</span>
+      <span class="seg" id="envSizeSeg">
+        <button data-size="DL" data-w="220" data-h="110">DL 220×110</button>
+        <button data-size="C5" data-w="229" data-h="162" class="on">C5 229×162</button>
+        <button data-size="C6" data-w="162" data-h="114">C6 162×114</button>
+        <button data-size="B6" data-w="176" data-h="125">B6 176×125</button>
+      </span>
+      <button class="btn ghost" id="envSelAll">全选</button>
+      <button class="btn ghost" id="envSelNone">全不选</button>
+      <button class="btn" id="envPrint">打印选中信封</button>
+      <button class="btn ghost" id="envDocx">导出 Word</button>
+      <span class="count" id="envCount"></span>
+    </div>
+    <p class="hint">信封按呼号一份，取最新日期的完整地址。邮资封右上角邮资区在打印和 Word 导出时完全留空（屏幕上仅以虚线示意），收信人地址、姓名不带框；打印时勾选框、编辑框均不出现。规格选择会保存，下次打开仍是你选的尺寸。</p>
+    <div id="envList"></div>
+  </section>
+
+  <!-- ================= 数据 ================= -->
+  <section id="tab-data" style="display:none">
+    <section class="block">
+      <h3>快速查地址（QRZ）</h3>
+      <form class="inline" id="qrzSearchForm" style="margin:0">
+        <label>呼号：<input id="qrzSearchInput" placeholder="输入呼号，如 BG8LKT" style="width:200px"></label>
+        <button class="btn" type="submit">查地址</button>
+        <span class="hint">在新标签页打开该呼号的 QRZ 主页（https://www.qrz.com/db/呼号），查到地址后在下方补录。</span>
+      </form>
+    </section>
+
+    <section class="block">
+      <h3>待补地址（<span id="needCount">0</span> 个呼号）</h3>
+      <p class="hint">这些呼号有通联记录、但没有完整收信地址，信封暂时打不了。点“查地址”打开 QRZ 主页查到后，在右侧表单补录，补完即进入信封清单。</p>
+      <div id="needList"></div>
+    </section>
+
+    <section class="block">
+      <h3>寄件人信息</h3>
+      <form class="inline" id="senderForm">
+        <label>呼号 <input name="callsign" size="8"></label>
+        <label>QTH <input name="qth" size="8"></label>
+        <label>CQ <input name="cq" size="4"></label>
+        <label>ITU <input name="itu" size="4"></label>
+        <label>地址 <input name="address" size="34"></label>
+        <label>邮编 <input name="postcode" size="8"></label>
+        <label>电话 <input name="phone" size="14"></label>
+        <label>设备 <input name="rig" size="8"></label>
+        <label>功率(W) <input name="power" size="5"></label>
+        <button class="btn" type="submit">保存寄件人信息</button>
+      </form>
+    </section>
+
+    <section class="block">
+      <h3>新增通联记录</h3>
+      <form class="inline" id="addCardForm">
+        <label>呼号 <input name="callsign" required size="10"></label>
+        <label>日期 <input name="date" placeholder="2025/04/03" size="11"></label>
+        <label>时间(UTC) <input name="time" placeholder="11:59" size="7"></label>
+        <label>频率(MHz) <input name="freq" size="9"></label>
+        <label>模式 <input name="mode" size="6" placeholder="FT8/SSB"></label>
+        <label>信号报告 <input name="rst" size="6"></label>
+        <label>设备 <input name="rig" size="8"></label>
+        <label>功率 <input name="power" size="5"></label>
+        <button class="btn" type="submit">新增</button>
+      </form>
+    </section>
+
+    <section class="block">
+      <h3>通联记录（<span id="cardTotal">0</span> 条）</h3>
+      <div style="max-height:420px;overflow:auto">
+      <table class="data" id="cardTable">
+        <thead><tr><th>呼号</th><th>日期</th><th>时间(UTC)</th><th>频率</th><th>模式</th><th>信号报告</th><th>设备</th><th>功率</th><th>操作</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      </div>
+    </section>
+
+    <section class="block">
+      <h3>收信地址簿（<span id="contactTotal">0</span> 个）</h3>
+      <form class="inline" id="addContactForm">
+        <label>呼号 <input name="callsign" required size="10"></label>
+        <label>收信人 <input name="recipient" size="16"></label>
+        <label>地址 <input name="address" size="40"></label>
+        <label>邮编 <input name="postcode" size="8"></label>
+        <button class="btn" type="submit">保存/更新地址</button>
+      </form>
+      <div style="max-height:360px;overflow:auto">
+      <table class="data" id="contactTable">
+        <thead><tr><th>呼号</th><th>收信人</th><th>地址</th><th>邮编</th><th>备注</th><th>操作</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      </div>
+    </section>
+  </section>
+
+  <!-- ================= ADIF 导入 ================= -->
+  <section id="tab-adif" style="display:none">
+    <section class="block">
+      <h3>导入 ADIF 日志（.adi / .adif）</h3>
+      <p class="hint">上传 Wavelog 等导出的 ADIF 文件，程序提取呼号、日期、UTC 时间、频率、模式、信号报告等字段。先预览、勾选后再导入；文件内重复的条目默认只导一份，已在表中的记录会标出；导入时按呼号自动匹配已有收信地址，没有地址的进待补地址区。ADIF 里没有收信地址字段，地址仍需另行补录。</p>
+      <form class="inline" id="adifForm">
+        <input type="file" id="adifFile" accept=".adi,.adif">
+        <button class="btn" type="submit">解析预览</button>
+      </form>
+      <div id="adifSummary" style="margin:10px 0"></div>
+      <div id="adifActions" style="margin:10px 0;display:none">
+        <button class="btn" id="adifImportBtn">导入已勾选记录</button>
+        <button class="btn ghost" id="adifSelAll">全选</button>
+        <button class="btn ghost" id="adifSelNone">全不选</button>
+      </div>
+      <div style="max-height:420px;overflow:auto">
+      <table class="data" id="adifTable" style="display:none">
+        <thead><tr><th></th><th>呼号</th><th>日期</th><th>时间(UTC)</th><th>频率</th><th>模式</th><th>信号报告</th><th>姓名/备注</th><th>状态</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      </div>
+    </section>
+  </section>
+</main>
+<div id="printArea"></div>
+<div id="toast"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

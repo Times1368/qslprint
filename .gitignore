@@ -1,0 +1,13 @@
+# 运行时数据（用户自己的通联记录，存在挂载卷里，不进仓库）
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器与系统文件
+.DS_Store
+*.swp

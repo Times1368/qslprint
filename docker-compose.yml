@@ -1,0 +1,19 @@
+# QSL 卡片与信封打印程序 — docker compose 配置
+# 用法：docker compose up -d
+services:
+  qslprint:
+    # 用法一（默认）：本地构建镜像，适合第一次部署、自己改代码后重新构建
+    build: .
+    # 用法二（备选）：拉取已发布到 Docker Hub 的镜像。
+    # 先把上面 build: . 这一行注释掉，再取消下面这行的注释，
+    # 并把 <你的DockerHub用户名> 换成你自己的 Docker Hub 用户名：
+    # image: <你的DockerHub用户名>/qslprint:latest
+    ports:
+      # 左边是主机端口（浏览器访问用的端口），右边 8000 是容器内端口（不要改右边）。
+      # 主机端口可改，例如改成 "8090:8000" 后就用 http://NAS-IP:8090 访问。
+      - "8080:8000"
+    volumes:
+      # 数据持久化：所有通联记录、地址、寄件人信息都存在 ./data/data.json，
+      # 容器重建、升级都不会丢。备份时复制整个 data 文件夹即可。
+      - ./data:/app/data
+    restart: unless-stopped

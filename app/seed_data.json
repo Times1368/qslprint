@@ -1,0 +1,4200 @@
+{
+ "sender": "BH6AJS",
+ "cards": [
+  {
+   "callsign": "BA7SAY",
+   "date": "2025/04/03",
+   "time": "11:59",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8CHI",
+   "date": "2025/04/03",
+   "time": "12:00",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4TH",
+   "date": "2025/04/03",
+   "time": "12:02",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-05",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH1WVM",
+   "date": "2025/04/03",
+   "time": "12:15",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-09",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA5CJ",
+   "date": "2025/04/03",
+   "time": "12:17",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5GFU",
+   "date": "2025/04/03",
+   "time": "12:31",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5IQX",
+   "date": "2025/04/03",
+   "time": "12:34",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI4UMB",
+   "date": "2025/04/03",
+   "time": "13:05",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4OXQ",
+   "date": "2025/04/03",
+   "time": "13:05",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4RHV",
+   "date": "2025/04/03",
+   "time": "13:07",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI4PPP",
+   "date": "2025/04/03",
+   "time": "13:12",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-23",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4HFJ",
+   "date": "2025/04/03",
+   "time": "13:13",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-09",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI3MLA",
+   "date": "2025/04/03",
+   "time": "131430",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3FND",
+   "date": "2025/04/03",
+   "time": "131530",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4ILV",
+   "date": "2025/04/03",
+   "time": "131945",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3MPM",
+   "date": "2025/04/03",
+   "time": "134130",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD6RN",
+   "date": "2025/04/03",
+   "time": "135600",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4ITD",
+   "date": "2025/04/03",
+   "time": "135700",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4KAT",
+   "date": "2025/04/03",
+   "time": "135900",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-20",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4UTT",
+   "date": "2025/04/03",
+   "time": "142915",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "+04",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5CPW",
+   "date": "2025/04/03",
+   "time": "143245",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-13",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG9GXM",
+   "date": "2025/04/03",
+   "time": "143430",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA4IE",
+   "date": "2025/04/03",
+   "time": "143830",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3DBF",
+   "date": "2025/04/03",
+   "time": "145915",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH6JOG",
+   "date": "2025/04/03",
+   "time": "150130",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI8AWT",
+   "date": "2025/04/03",
+   "time": "224600",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2MGR",
+   "date": "2025/04/04",
+   "time": "01:35",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5VET",
+   "date": "2025/04/04",
+   "time": "01:50",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2BRQ",
+   "date": "2025/04/04",
+   "time": "01:59",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8BTP",
+   "date": "2025/04/05",
+   "time": "0942",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG6UFZ",
+   "date": "2025/04/05",
+   "time": "1002",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6NYO",
+   "date": "2025/04/05",
+   "time": "1042",
+   "freq": "28.0755",
+   "mode": "FT8",
+   "rst": "-18",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4GVF",
+   "date": "2025/04/06",
+   "time": "0848",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4XGP",
+   "date": "2025/04/11",
+   "time": "1515",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-06",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG1SB",
+   "date": "2025/04/11",
+   "time": "",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4HZQ",
+   "date": "2025/04/11",
+   "time": "1450",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-17",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH2XIH",
+   "date": "2025/04/11",
+   "time": "1435",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-24",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG6HXC",
+   "date": "2025/04/11",
+   "time": "1433",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2GNR",
+   "date": "2025/04/11",
+   "time": "1404",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-22",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8CBX",
+   "date": "2025/04/11",
+   "time": "1359",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4GTG",
+   "date": "2025/04/11",
+   "time": "1358",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4TNQ",
+   "date": "2025/04/11",
+   "time": "1348",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5EIB",
+   "date": "2025/04/11",
+   "time": "1343",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8DMM",
+   "date": "2025/04/11",
+   "time": "1334",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2KUD",
+   "date": "2025/04/11",
+   "time": "1325",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4VOJ",
+   "date": "2025/04/11",
+   "time": "1304",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4GDF",
+   "date": "2025/04/11",
+   "time": "1303",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-13",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG8LKT",
+   "date": "2025/04/14",
+   "time": "1459",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8DFK",
+   "date": "2025/04/12",
+   "time": "1431",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-05",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0GAA",
+   "date": "2025/04/12",
+   "time": "1419",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-23",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH8AVW",
+   "date": "2025/04/12",
+   "time": "1414",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2LCG",
+   "date": "2025/04/12",
+   "time": "1319",
+   "freq": "7.055",
+   "mode": "FT8",
+   "rst": "-21",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH9FRB",
+   "date": "2025/04/16",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG8LGF",
+   "date": "2025/04/16",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BD6JYS",
+   "date": "2025/04/16",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BD4XEF",
+   "date": "2025/04/16",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH3HMP",
+   "date": "2025/04/21",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG5EYK",
+   "date": "2025/04/21",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH6AHA",
+   "date": "2025/04/21",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG7QJE",
+   "date": "2025/04/15",
+   "time": "1148",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4RFG",
+   "date": "2025/04/18",
+   "time": "1201",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-05",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD3PSZ",
+   "date": "2025/04/18",
+   "time": "1248",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG9JDI",
+   "date": "2025/04/18",
+   "time": "1244",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4HLI",
+   "date": "2025/04/18",
+   "time": "1345",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5JAU",
+   "date": "2025/04/18",
+   "time": "1354",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-03",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8AHK",
+   "date": "2025/04/18",
+   "time": "1357",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7JHK",
+   "date": "2025/04/19",
+   "time": "0823",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG7QOA",
+   "date": "2025/04/19",
+   "time": "0937",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5UEZ",
+   "date": "2025/04/19",
+   "time": "0948",
+   "freq": "18.155",
+   "mode": "FT8",
+   "rst": "+00",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6OKX",
+   "date": "2025/04/23",
+   "time": "1252",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH1XEC",
+   "date": "2025/04/23",
+   "time": "1310",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH7DZV",
+   "date": "2025/04/23",
+   "time": "1221",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH1UHC",
+   "date": "2025/04/25",
+   "time": "1134",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI1FRJ",
+   "date": "2025/04/25",
+   "time": "1151",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-13",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI3OGV",
+   "date": "2025/04/26",
+   "time": "0839",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5VGK",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH5HFK",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH7MMZ",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4GDF",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2EFY",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4RGF",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI1SPE",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2LNV",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH8VRO",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD3PKB",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "FT8",
+   "rst": "",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3HAE",
+   "date": "2025/05/12",
+   "time": "13:47",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH6QCE",
+   "date": "2025/05/12",
+   "time": "13:33",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2CFF",
+   "date": "2025/05/12",
+   "time": "12:49",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI4RBD",
+   "date": "2025/05/12",
+   "time": "12:46",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI1UHW",
+   "date": "2025/05/12",
+   "time": "12:14",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "+01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0HP",
+   "date": "2025/05/12",
+   "time": "08:18",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-06",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD6IUT",
+   "date": "2025/05/12",
+   "time": "08:18",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-13",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0HT",
+   "date": "2025/05/12",
+   "time": "02:14",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8DRU",
+   "date": "2025/05/11",
+   "time": "12:08",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8ESR",
+   "date": "2025/05/11",
+   "time": "12:07",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG8AMG",
+   "date": "2025/05/10",
+   "time": "11:16",
+   "freq": "18.1015",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG8KUV",
+   "date": "2025/05/10",
+   "time": "11:06",
+   "freq": "18.1015",
+   "mode": "FT8",
+   "rst": "+00",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7KIY",
+   "date": "2025/05/10",
+   "time": "10:48",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG7JYZ",
+   "date": "2025/05/10",
+   "time": "10:37",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4TZY",
+   "date": "2025/05/10",
+   "time": "10:26",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-06",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4WBT",
+   "date": "2025/05/10",
+   "time": "10:25",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-05",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH8VRO",
+   "date": "2025/05/10",
+   "time": "10:09",
+   "freq": "18.1015",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI9AME",
+   "date": "2025/05/10",
+   "time": "09:46",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "+04",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI3VRR",
+   "date": "2025/05/10",
+   "time": "09:29",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "+01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA4RPE",
+   "date": "2025/05/10",
+   "time": "09:09",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-20",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8CJS",
+   "date": "2025/05/10",
+   "time": "03:23",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-05",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH5EIJ",
+   "date": "2025/05/10",
+   "time": "02:06",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5IOW",
+   "date": "2025/05/10",
+   "time": "01:58",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "+01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD7PRC",
+   "date": "2025/05/08",
+   "time": "08:53",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8EM",
+   "date": "2025/05/08",
+   "time": "07:56",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "+02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG8LKT",
+   "date": "2025/04/27",
+   "time": "13:34",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH9FPK",
+   "date": "2025/05/15",
+   "time": "12:20",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-09",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4QXR",
+   "date": "2025/05/15",
+   "time": "12:47",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG3LRN",
+   "date": "2025/05/15",
+   "time": "12:58",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7LIX",
+   "date": "2025/05/15",
+   "time": "12:57",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5DOY",
+   "date": "2025/05/15",
+   "time": "13:04",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7JMO",
+   "date": "2025/05/16",
+   "time": "02:16",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0GG",
+   "date": "2025/05/16",
+   "time": "01:58",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-21",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0HP",
+   "date": "2025/05/16",
+   "time": "02:31",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-22",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4LDK",
+   "date": "2025/05/26",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH3HSZ",
+   "date": "2025/05/29",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BD4VCM",
+   "date": "2025/05/29",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG8LYV",
+   "date": "2025/05/29",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BI1SQH",
+   "date": "2025/05/29",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG2MKX",
+   "date": "2025/06/05",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG2EFX",
+   "date": "2025/05/31",
+   "time": "08:26",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-25",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI2QFA",
+   "date": "2025/05/31",
+   "time": "04:15",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH1OHX",
+   "date": "2025/05/31",
+   "time": "04:10",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8CBQ",
+   "date": "2025/05/31",
+   "time": "04:00",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5JMY",
+   "date": "2025/05/30",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH7MML",
+   "date": "2025/05/07",
+   "time": "02:47",
+   "freq": "28.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH7MML",
+   "date": "2025/05/08",
+   "time": "03:57",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH5FAE",
+   "date": "2025/06/28",
+   "time": "02:55",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6PWL",
+   "date": "2025/06/28",
+   "time": "02:56",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA6IM",
+   "date": "2026/02/26",
+   "time": "11:21",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2EZQ",
+   "date": "2026/02/26",
+   "time": "11:05",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-24",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4JTT",
+   "date": "2026/02/26",
+   "time": "11:00",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2GFW",
+   "date": "2026/02/26",
+   "time": "10:51",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-18",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2KSI",
+   "date": "2026/02/26",
+   "time": "07:23",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-03",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG7XQM",
+   "date": "2026/02/25",
+   "time": "13:51",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8ECX",
+   "date": "2026/02/25",
+   "time": "12:48",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG6HGI",
+   "date": "2026/02/25",
+   "time": "12:35",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH6BSY",
+   "date": "2026/02/25",
+   "time": "12:25",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "+00",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH8BMZ",
+   "date": "2026/02/25",
+   "time": "11:11",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-18",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4THI",
+   "date": "2026/02/24",
+   "time": "01:48",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "+06",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG8KUQ",
+   "date": "2026/02/24",
+   "time": "13:06",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "+00",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8FPI",
+   "date": "2026/02/24",
+   "time": "13:01",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8CKP",
+   "date": "2026/02/24",
+   "time": "12:49",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-09",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8DHZ",
+   "date": "2026/02/24",
+   "time": "09:29",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5GDP",
+   "date": "2026/02/24",
+   "time": "08:21",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG9JPJ",
+   "date": "2026/02/24",
+   "time": "04:29",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "+00",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4WVQ",
+   "date": "2026/02/24",
+   "time": "04:26",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG0FFH",
+   "date": "2026/02/23",
+   "time": "08:19",
+   "freq": "28.07603",
+   "mode": "FT8",
+   "rst": "-23",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5MVD",
+   "date": "2026/02/21",
+   "time": "11:56",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6LWM",
+   "date": "2026/02/21",
+   "time": "10:49",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-18",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2ATH",
+   "date": "2026/02/21",
+   "time": "05:53",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6NSK",
+   "date": "2026/02/20",
+   "time": "08:16",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-19",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG3NQT",
+   "date": "2026/02/20",
+   "time": "07:59",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "+02",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD8DZI",
+   "date": "2026/02/20",
+   "time": "07:08",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI3XZU",
+   "date": "2026/02/20",
+   "time": "04:39",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-04",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG2FYO",
+   "date": "2026/02/20",
+   "time": "04:06",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG5JGG",
+   "date": "2026/02/19",
+   "time": "08:11",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-20",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6AN",
+   "date": "2026/02/19",
+   "time": "07:32",
+   "freq": "21.07603",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4JN",
+   "date": "2026/02/19",
+   "time": "04:05",
+   "freq": "14.07603",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI8EJM",
+   "date": "2026/02/18",
+   "time": "14:13",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG3NBD",
+   "date": "2026/02/18",
+   "time": "14:03",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI8SCC",
+   "date": "2026/02/18",
+   "time": "13:51",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-01",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3NZN",
+   "date": "2026/02/18",
+   "time": "13:07",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-07",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH8RCK",
+   "date": "2025/10/12",
+   "time": "11:26",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH1LKO",
+   "date": "2025/08/01",
+   "time": "13:56",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7MTH",
+   "date": "2025/08/01",
+   "time": "12:22",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-15",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH2XPS",
+   "date": "2025/07/31",
+   "time": "12:03",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-13",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4PSA",
+   "date": "2025/07/28",
+   "time": "13:36",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-21",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI4MZJ",
+   "date": "2025/07/28",
+   "time": "13:03",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-08",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7MGJ",
+   "date": "2026/03/03",
+   "time": "19:25",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BA7MGJ",
+   "date": "2026/02/26",
+   "time": "01:14",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG4OXQ",
+   "date": "2026/02/19",
+   "time": "23:34",
+   "freq": "7.050",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BI6OOK",
+   "date": "2026/02/19",
+   "time": "23:30",
+   "freq": "7.050",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH2RJL",
+   "date": "2026/02/19",
+   "time": "23:31",
+   "freq": "7.050",
+   "mode": "SSB",
+   "rst": "57",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BD4WCL",
+   "date": "2026/02/17",
+   "time": "05:14",
+   "freq": "14.275",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BG3UPZ",
+   "date": "2026/02/17",
+   "time": "04:46",
+   "freq": "14.275",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH4OSL",
+   "date": "2026/02/17",
+   "time": "04:12",
+   "freq": "14.265",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH3SCJ",
+   "date": "2026/02/17",
+   "time": "01:21",
+   "freq": "7.055",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT-710"
+  },
+  {
+   "callsign": "BH7NI",
+   "date": "2026/04/06",
+   "time": "10:25",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI7BNO",
+   "date": "2026/04/06",
+   "time": "10:23",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI9CNJ",
+   "date": "2026/04/06",
+   "time": "09:34",
+   "freq": "14.260",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI9CNJ",
+   "date": "2026/04/05",
+   "time": "08:04",
+   "freq": "14.250",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI9CNJ",
+   "date": "2026/03/27",
+   "time": "04:25",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI3BOW",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BI1KBU",
+   "date": "",
+   "time": "",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH8GH",
+   "date": "2026/04/06",
+   "time": "08:03",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7LNJ",
+   "date": "2026/04/06",
+   "time": "07:51",
+   "freq": "14.290",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG6HOU",
+   "date": "2026/04/05",
+   "time": "14:10",
+   "freq": "439.925",
+   "mode": "FM",
+   "rst": "58",
+   "power": "5",
+   "rig": "UK-K6"
+  },
+  {
+   "callsign": "BI7JAC",
+   "date": "2026/04/05",
+   "time": "10:16",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7NNC",
+   "date": "2026/04/02",
+   "time": "11:24",
+   "freq": "14.250",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI1TMQ",
+   "date": "2026/03/28",
+   "time": "12:51",
+   "freq": "7.160",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BY1BY",
+   "date": "2026/03/28",
+   "time": "11:18",
+   "freq": "7.150",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG2KSI",
+   "date": "2026/03/28",
+   "time": "06:50",
+   "freq": "21.200",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG7UZR",
+   "date": "2026/03/27",
+   "time": "12:51",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI3SVW",
+   "date": "2026/03/27",
+   "time": "12:34",
+   "freq": "7.053",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5FPK",
+   "date": "2026/03/24",
+   "time": "12:49",
+   "freq": "7.075",
+   "mode": "FT8",
+   "rst": "-10",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5FDC",
+   "date": "2026/03/23",
+   "time": "10:13",
+   "freq": "7.055",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BD1BGB",
+   "date": "2026/03/22",
+   "time": "05:11",
+   "freq": "14.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG6PMC",
+   "date": "2026/03/21",
+   "time": "09:12",
+   "freq": "7.055",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG7SSA",
+   "date": "2026/03/21",
+   "time": "02:34",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7NXE",
+   "date": "2026/04/05",
+   "time": "05:36",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH3HMP",
+   "date": "2026/04/12",
+   "time": "12:09",
+   "freq": "7.07603",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5TOX",
+   "date": "2026/04/11",
+   "time": "09:36",
+   "freq": "50.313",
+   "mode": "FT8",
+   "rst": "-18",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG8SYW",
+   "date": "2026/04/08",
+   "time": "12:36",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-16",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BD1CAZ",
+   "date": "2026/04/08",
+   "time": "12:04",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-17",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI3AHG",
+   "date": "2026/04/08",
+   "time": "11:48",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-04",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG9DYJ",
+   "date": "2026/04/16",
+   "time": "12:06",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-03",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG0ETY",
+   "date": "2026/04/16",
+   "time": "10:33",
+   "freq": "18.1015",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7JHK",
+   "date": "2026/04/19",
+   "time": "05:57",
+   "freq": "21.295",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI8AQ",
+   "date": "2026/04/19",
+   "time": "05:16",
+   "freq": "14.265",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG7XCX",
+   "date": "2026/04/19",
+   "time": "04:49",
+   "freq": "14.195",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG3LGO",
+   "date": "2026/04/19",
+   "time": "03:59",
+   "freq": "14.195",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI8AD",
+   "date": "2026/04/19",
+   "time": "03:56",
+   "freq": "14.220",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG0DLA",
+   "date": "2026/04/19",
+   "time": "03:32",
+   "freq": "28.465",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG4IDK",
+   "date": "2026/04/18",
+   "time": "23:05",
+   "freq": "7.094",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH2XHI",
+   "date": "2026/04/18",
+   "time": "14:07",
+   "freq": " 7.047",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7NLL",
+   "date": "2026/04/18",
+   "time": "13:44",
+   "freq": "7.095 ",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG6HXD",
+   "date": "2026/04/18",
+   "time": "11:08",
+   "freq": "7.106",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG4KZM",
+   "date": "2026/04/18",
+   "time": "11:01",
+   "freq": "7.099",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI3PIE",
+   "date": "2026/04/18",
+   "time": "10:42",
+   "freq": "7.052",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG9IVV",
+   "date": "2026/04/18",
+   "time": "09:21",
+   "freq": "14.215",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BD8EEQ",
+   "date": "2026/04/18",
+   "time": "09:16",
+   "freq": "14.250",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH7MML",
+   "date": "2026/04/18",
+   "time": "08:27",
+   "freq": "21.270",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BA7KTA",
+   "date": "2026/04/18",
+   "time": "08:26",
+   "freq": "21.285",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI8EJM",
+   "date": "2026/06/25",
+   "time": "07:04",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG8LNG",
+   "date": "2026/06/24",
+   "time": "02:09",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-11",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI8EJM",
+   "date": "2026/06/23",
+   "time": "02:47",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "5",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5BNW",
+   "date": "2026/06/23",
+   "time": "02:24",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "12",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH6KWC",
+   "date": "2026/06/12",
+   "time": "01:53",
+   "freq": "50.313",
+   "mode": "FT8",
+   "rst": "-21",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5EQA",
+   "date": "2026/06/11",
+   "time": "00:12",
+   "freq": "14.0755",
+   "mode": "FT8",
+   "rst": "-1",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG5DNQ",
+   "date": "2026/05/29",
+   "time": "06:41",
+   "freq": "50.313",
+   "mode": "FT8",
+   "rst": "-14",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH9CXY",
+   "date": "2026/04/18",
+   "time": "07:40",
+   "freq": "14.250",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BH9CXY",
+   "date": "2026/04/18",
+   "time": "23:01",
+   "freq": "7.135",
+   "mode": "SSB",
+   "rst": "59",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI4AOO",
+   "date": "2026/09/06",
+   "time": "09:55",
+   "freq": "7.0755",
+   "mode": "FT8",
+   "rst": "-02",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BG7DTK",
+   "date": "2026/07/24",
+   "time": "03:32",
+   "freq": "21.0755",
+   "mode": "FT8",
+   "rst": "-12",
+   "power": "10",
+   "rig": "FT710"
+  },
+  {
+   "callsign": "BI6PWL",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BD4VDZ",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BI4AEI",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BH4HLM",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BI4BQJ",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BG4INY",
+   "date": "2026/10/24",
+   "time": "06:00",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  },
+  {
+   "callsign": "BI3TPQ",
+   "date": "2026/11/05",
+   "time": "13:12",
+   "freq": "",
+   "mode": "",
+   "rst": "",
+   "power": "",
+   "rig": ""
+  }
+ ],
+ "envelopes": [
+  {
+   "callsign": "BA4RPE",
+   "recipient": "BA4RPE刘梓渝",
+   "address": "江苏省南京市玄武区东南大学四牌楼校区沙塘园宿舍区",
+   "postcode": "210096",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA5CJ",
+   "recipient": "高明武（BA5CJ）",
+   "address": "浙江省温州市鹿城区滨江街道汇源路128号丰源花苑1幢305室",
+   "postcode": "325002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA6IM",
+   "recipient": "BA6IM李志勇",
+   "address": "河南省新乡市红旗区人民路32号豫程小区5-1-202",
+   "postcode": "453000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7JHK",
+   "recipient": "BA7JHK姜涛",
+   "address": "广东省东莞市长安镇涌头社区宏丰路14号509",
+   "postcode": "523850",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7JMO",
+   "recipient": "BA7JMO",
+   "address": "广东省深圳市宝安石岩水田5-9信箱",
+   "postcode": "518108",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7KIY",
+   "recipient": "BA7KIY黄先生",
+   "address": "广东省梅州市梅江区三角镇彬芳大道99号梅园新村B4栋803",
+   "postcode": "514000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7KTA",
+   "recipient": "BA7KTA陈浩东",
+   "address": "广东省东莞市南城街道三元路6号邮政大楼5楼全国邮政电子商务运营中心",
+   "postcode": "523076",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7LIX",
+   "recipient": "BA7LIX",
+   "address": "广东省珠海市香洲区心华路168号银厦广场21栋",
+   "postcode": "519075",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7LNJ",
+   "recipient": "BA7LNJ傅伟明",
+   "address": "广东省河源市东源县徐洞工业区乐德皮具厂办公室",
+   "postcode": "517500",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7MGJ",
+   "recipient": "BA7MGJ胡臣文",
+   "address": "广东省深圳市罗湖区金湖路11号罗湖区慢病院宿舍2栋801",
+   "postcode": "518029",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7MTH",
+   "recipient": "BA7MTH李瀚",
+   "address": "广东省汕头市澄海区登峰路美纶大厦",
+   "postcode": "515000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7NLL",
+   "recipient": "BA7NLL AI科创中心",
+   "address": "广东省深圳市宝安区沙井街道立岗南路13号",
+   "postcode": "518104",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7NNC",
+   "recipient": "BA7NNC",
+   "address": "广东佛山南海桂城佛平三路6号御城花园雅兰1-1304",
+   "postcode": "528200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7NXE",
+   "recipient": "BA7NXE车勇",
+   "address": "广东省深圳市福田区华强北路2006号东座232室",
+   "postcode": "518028",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BA7SAY",
+   "recipient": "BA7SAY",
+   "address": "广西梧州市西环路中段28-1号",
+   "postcode": "543000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD1BGB",
+   "recipient": "BD1BGB",
+   "address": "辽宁省朝阳市三十家子镇",
+   "postcode": "122599",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD1CAZ",
+   "recipient": "BD1CAZ",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD3PSZ",
+   "recipient": "BD3PSZ刘少伟",
+   "address": "河北省衡水市桃城区路北育才街怡安家园一期",
+   "postcode": "053000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4JN",
+   "recipient": "BD4JN",
+   "address": "山东省济南市历下区青年东路1号山东文教大厦北3楼收发室",
+   "postcode": "250000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4QXR",
+   "recipient": "BD4QXR李彦霖",
+   "address": "江苏省徐州市泉山区民健园7-1-301",
+   "postcode": "221002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4RFG",
+   "recipient": "BD4RFG黄栋",
+   "address": "江苏省南京市江宁区禄口街道招商依云郡步行街",
+   "postcode": "210000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4RHV",
+   "recipient": "BD4RHV",
+   "address": "南京市江宁区东山邮政支局 037 信箱",
+   "postcode": "211100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4TH",
+   "recipient": "BD4TH",
+   "address": "江苏省无锡市和佳园 2 号 302 室",
+   "postcode": "214044",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4TZY",
+   "recipient": "BD4TZY",
+   "address": "中国江苏省苏州市吴中区甪直镇柯福路1号 15幢1306号",
+   "postcode": "215000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4VCM",
+   "recipient": "BD4VCM苏浩",
+   "address": "江西省抚州市崇仁县街口里183号",
+   "postcode": "344200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4VDZ",
+   "recipient": "BD4VDZ龚纹",
+   "address": "江苏省南京市鼓楼区虎丘路11号2单元306室",
+   "postcode": "210024",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4VOJ",
+   "recipient": "BD4VOJ张德龙",
+   "address": "江苏省苏州市高新区昆仑山路58号中移软件园A-05",
+   "postcode": "215153",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4WBT",
+   "recipient": "BD4WBT",
+   "address": "江苏省无锡市经开区华庄镇水乡苑二区6栋701",
+   "postcode": "214131",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4WCL",
+   "recipient": "BD4WCL",
+   "address": "江苏省无锡市梁溪区扬名街瑞翔路1号瑞翔家园8-602",
+   "postcode": "214121",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4WVQ",
+   "recipient": "BD4WVQ朱先生",
+   "address": "江苏省无锡市宜兴市宜城街道东虹路329号阳光花苑4-306信箱",
+   "postcode": "214200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4XEF",
+   "recipient": "BD4XEF",
+   "address": "江苏省南通市如皋市如城街道都市华庭388幢",
+   "postcode": "226500",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD4XGP",
+   "recipient": "BD4XGP卢继刚",
+   "address": "江苏省宜兴市新建镇小刚装潢",
+   "postcode": "214253",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD6IUT",
+   "recipient": "BD6IUT 王志航",
+   "address": "河南省郑州市中原区科学大道100号郑州大学",
+   "postcode": "450001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD6JYS",
+   "recipient": "BD6JYS 许学琛",
+   "address": "河南省郑州市金水区未来路815号院凤凰苑",
+   "postcode": "950000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD7PRC",
+   "recipient": "BD7PRC郭励睿",
+   "address": "广东省深圳市福田区百花四路长泰花园B栋6A",
+   "postcode": "518028",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8AHK",
+   "recipient": "BD8AHK李岱",
+   "address": "四川省成都市双流区怡心街道协中路111号中铁骑士府邸13栋29楼",
+   "postcode": "610213",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8BTP",
+   "recipient": "刘中波BD8BTP",
+   "address": "四川省成都市青羊区贝新巷16号4-2-12",
+   "postcode": "610074",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8CBQ",
+   "recipient": "BD8CBQ胡小辉",
+   "address": "中国四川省成都市成华区双林路251号B座25楼",
+   "postcode": "610051",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8CBX",
+   "recipient": "BD8CBX何正颢",
+   "address": "四川省成都市金牛区化成街7号",
+   "postcode": "610036",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8CHI",
+   "recipient": "BD8CHI",
+   "address": "四川省绵阳市江油市贯山",
+   "postcode": "621700",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8CJS",
+   "recipient": "BD8CJS 杨广龙",
+   "address": "四川省广元市利州区滨河南路342号金岸名邸",
+   "postcode": "628000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8CKP",
+   "recipient": "BD8CKP杜正轩",
+   "address": "四川省成都市新都区五龙山路418号",
+   "postcode": "610503",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8DFK",
+   "recipient": "BD8DFK连欣",
+   "address": "四川省成都市武侯区天府二街华润凤凰城一期",
+   "postcode": "610023",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8DHZ",
+   "recipient": "BD8DHZ李华",
+   "address": "四川省宜宾市长宁县长宁镇文圣街47号附2号",
+   "postcode": "644300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8DRU",
+   "recipient": "BD8DRU陈明华",
+   "address": "四川省凉山州美姑县新区大风顶国家级自然保护区",
+   "postcode": "616450",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8DZI",
+   "recipient": "BG3NQT王顺利",
+   "address": "四川省绵阳市涪城区绵州大道北段197号（泛城图文）",
+   "postcode": "621000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8ECX",
+   "recipient": "BD8ECX何瑞鹏",
+   "address": "四川省成都市青羊区文庙西街300号",
+   "postcode": "610041",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8EEQ",
+   "recipient": "BD8EEQ",
+   "address": "四川省南充市顺庆区西华路二段栖凤佳苑（门卫室代收）",
+   "postcode": "637000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8EM",
+   "recipient": "BD8EM邓明",
+   "address": "四川省成都市武侯区红牌楼街道永盛路63号",
+   "postcode": "610041",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8ESR",
+   "recipient": "BD8ESR",
+   "address": "四川省成都市温江区锦府路198号",
+   "postcode": "611100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BD8FPI",
+   "recipient": "BD8FPI李康杰",
+   "address": "四川省绵阳市三台县芦溪镇建设街108号",
+   "postcode": "621100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0DLA",
+   "recipient": "BG0DLA 晏嘉",
+   "address": "新疆维吾尔自治区伊犁哈萨克自治州奎屯市喀什东路莱茵小镇",
+   "postcode": "833200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0ETY",
+   "recipient": "BG0ETY张涛",
+   "address": "新疆中国新疆乌鲁木齐市天山区前进路68号1单元601室",
+   "postcode": "830002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0FFH",
+   "recipient": "BG0FFH凯德",
+   "address": "新疆乌鲁木齐市沙依巴克区友好北路地矿局北院",
+   "postcode": "830000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0GAA",
+   "recipient": "BG0GAA 盛杰",
+   "address": "西藏林芝市波密县扎木路7号",
+   "postcode": "860300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0GG",
+   "recipient": "BG0GG罗弘",
+   "address": "西藏自治区拉萨市柳梧新区邮政01-888号信箱",
+   "postcode": "850000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0HP",
+   "recipient": "BG0HP胡华山",
+   "address": "西藏自治区拉萨市城关区蔡公堂乡白定村37号",
+   "postcode": "850000",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BG0HT",
+   "recipient": "BG0HT赵书强",
+   "address": "西藏拉萨市城关区嘎玛贡桑路北社区 2组69号",
+   "postcode": "850000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2ATH",
+   "recipient": "BG2ATH孙冬溟",
+   "address": "黑龙江大庆龙凤区邮局28号信箱",
+   "postcode": "163711",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2BRQ",
+   "recipient": "BG2BRQ丁志勇",
+   "address": "黑龙江省大庆市萨尔图区经八街232号",
+   "postcode": "163000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2CFF",
+   "recipient": "BG2CFF姜波",
+   "address": "黑龙江省大庆市龙凤区唯美康城14楼-2单元-1904门",
+   "postcode": "163711",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2EFX",
+   "recipient": "BG2EFX",
+   "address": "云南省昆明市官渡区春城路 20 号 599-3 信箱",
+   "postcode": "650011",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2EZQ",
+   "recipient": "BG2EZQ闫斌",
+   "address": "黑龙江省佳木斯市向阳区福丰街帝景豪庭G3-3-1102",
+   "postcode": "154002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2FYO",
+   "recipient": "BG2FYO",
+   "address": "黑龙江省哈尔滨市南岗区繁荣街138-1号3单元101室",
+   "postcode": "150001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2GFW",
+   "recipient": "BG2GFW马俊峰",
+   "address": "黑龙江省佳木斯市向阳区长安街道金三角金立综合楼三单元303",
+   "postcode": "154002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2KSI",
+   "recipient": "BG2KSI岳霖",
+   "address": "吉林省吉林市船营区长春路162号冯家屯邮局25-8信箱",
+   "postcode": "132012",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2KUD",
+   "recipient": "BG2KUD",
+   "address": "中国吉林省通化市江南龙湾会馆1号楼7楼",
+   "postcode": "134001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2LCG",
+   "recipient": "BG2LCG",
+   "address": "吉林省珲春市跃丰生态园小区5-5-309",
+   "postcode": "133300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2MGR",
+   "recipient": "BG2MGR",
+   "address": "吉林省长春市朝阳区安达街邮局008号信箱",
+   "postcode": "130061",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG2MKX",
+   "recipient": "BG2MKX",
+   "address": "吉林省长春市朝阳区飞跃街道吉林动画学院博识路168号男寝公寓9号男寝",
+   "postcode": "130012",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG3LGO",
+   "recipient": "BG3LGO王岩",
+   "address": "内蒙古赤峰市红山区桥北星悦湾小区13号楼1单元1-102信箱",
+   "postcode": "024045",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG3LRN",
+   "recipient": "BG3LRN 刘寅",
+   "address": "内蒙古自治区包头市东河区东兴街道包头铝业产业园区管委会",
+   "postcode": "014040",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG3NBD",
+   "recipient": "BG3NBD王伟",
+   "address": "河北省唐山市路北区祥明里干休楼1-3-202室",
+   "postcode": "063000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG3NQT",
+   "recipient": "BG3NQT王顺利",
+   "address": "河北省 唐山市 迁安市 燕山大路最北段 百万车行",
+   "postcode": "064400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG3UPZ",
+   "recipient": "BG3UPZ段永保",
+   "address": "山西省侯马市市府路石油家属院西一排一号",
+   "postcode": "043000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4IDK",
+   "recipient": "BG4IDK张孟非",
+   "address": "山东省济宁市微山县戚城街振奋六巷北",
+   "postcode": "277600",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4ILV",
+   "recipient": "BG4ILV李成",
+   "address": "山东省德州市德城区文化路商苑小区5号楼",
+   "postcode": "253042",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4INY",
+   "recipient": "BG4INY",
+   "address": "济南市天桥区金阁花园小区16-4-102",
+   "postcode": "250032",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4ITD",
+   "recipient": "BG4ITD罗涵文",
+   "address": "山东省潍坊市昌乐县鄌郚镇龙海花园4幢1单元501室",
+   "postcode": "262409",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4JTT",
+   "recipient": "BG4JTT",
+   "address": "山东省淄博市沂源县南马镇振华嘉园",
+   "postcode": "256100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4KAT",
+   "recipient": "BG4KAT杨建青",
+   "address": "上海市浦东新区沪南公路2419弄31号901室",
+   "postcode": "201204",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4KZM",
+   "recipient": "BG4KZM吴士峰",
+   "address": "山东省临沂市兰山区义堂镇西安路与聚财九路交汇临沂第九中学西安路校区",
+   "postcode": "276000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4LDK",
+   "recipient": "BG4LDK",
+   "address": "山东省青岛市市北区萍乡路22号中庭山景11-1-302",
+   "postcode": "266044",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG4OXQ",
+   "recipient": "BG4OXQ刘玉国",
+   "address": "山东省济南市市中区郎茂山小区二区25号楼4单元502户",
+   "postcode": "250000",
+   "cards": 2,
+   "flag": "该呼号有多条不同地址/收信人，已取最新日期的一条，请核对"
+  },
+  {
+   "callsign": "BG5BNW",
+   "recipient": "BG5BNW胡先生",
+   "address": "浙江省宁波市慈溪市匡堰镇秒山兴岗苑 1-501",
+   "postcode": "315300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5DNQ",
+   "recipient": "BG5DNQ",
+   "address": "上海市 399-5 邮政信箱 BG5DNQ",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5DOY",
+   "recipient": "BG5DOY",
+   "address": "浙江省杭州市滨江区长江路179号华数产业园",
+   "postcode": "310000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5EIB",
+   "recipient": "BG5EIB丁孙杰",
+   "address": "浙江省海宁市海洲街道康桥名城11幢2308室",
+   "postcode": "314400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5EQA",
+   "recipient": "BG5EQA",
+   "address": "浙江省乐清市双雁路117号402室",
+   "postcode": "325600",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5EYK",
+   "recipient": "BG5EYK何迪",
+   "address": "浙江省嘉兴市南湖区中环南路839号星禾广场808室",
+   "postcode": "314001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5FDC",
+   "recipient": "BG5FDC",
+   "address": "浙江省衢州市龙游县谷水路119号",
+   "postcode": "324400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5FPK",
+   "recipient": "BG5FPK",
+   "address": "浙江省瑞安市莘塍3-2-504",
+   "postcode": "325206",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5GDP",
+   "recipient": "BG5GDP盛施宏",
+   "address": "浙江省湖州市吴兴区飞英街道吉北小区218幢3单元111室",
+   "postcode": "313000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5GFU",
+   "recipient": "丁丁（BG5GFU）",
+   "address": "浙江省宁波市镇海区蛟川街道风华路4372号后院综合行政执法办事大厅",
+   "postcode": "315200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5IOW",
+   "recipient": "BG5IOW袁希",
+   "address": "江西省南昌市青山湖区方志敏大道江西农业大学林学院",
+   "postcode": "330045",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5IQX",
+   "recipient": "BG5IQX",
+   "address": "江西省南昌市湾里永惠漫谷34栋1单元301",
+   "postcode": "330004",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5JAU",
+   "recipient": "BG5JAU王鑫",
+   "address": "江西省上饶市信州区富饶路76号南昌通信段高铁通信车间",
+   "postcode": "334000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5JGG",
+   "recipient": "BG5JGG葛谦润",
+   "address": "江西省九江市浔阳区时代豪邸二栋一单元1101",
+   "postcode": "332000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5JMY",
+   "recipient": "BG5JMY刘晓宇",
+   "address": "江西省南昌市新建区梅岭大道819号江西中医药大学北校区",
+   "postcode": "310004",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5MVD",
+   "recipient": "BG5MVD江世成",
+   "address": "江西省赣州市于都县新长征汽车城奇瑞4S店",
+   "postcode": "342300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5TOX",
+   "recipient": "BG5TOX徐达",
+   "address": "浙江省 杭州市 拱墅区 1519号邮政信箱",
+   "postcode": "310015",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5UEZ",
+   "recipient": "BG5UEZ许炜彬",
+   "address": "福建省漳州市芗城区古塘路55号53-8 漳州自行车协会",
+   "postcode": "363000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG5VET",
+   "recipient": "BG5VET施先生",
+   "address": "福建省福清市音西街道融侨城25-701",
+   "postcode": "350300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6HGI",
+   "recipient": "BG6HGI",
+   "address": "安徽省合肥市包河区同安街道星海龙御湾3#504",
+   "postcode": "230002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6HOU",
+   "recipient": "BG6HOU",
+   "address": "安徽省合肥市高新区复兴家园5栋",
+   "postcode": "230094",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6HXC",
+   "recipient": "BG6HXC陈钟",
+   "address": "安徽淮北烈山区杨庄街道焦化厂社区",
+   "postcode": "235000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6HXD",
+   "recipient": "BG6HXD于洋",
+   "address": "安徽省淮北市相山区相山中路109号301信箱",
+   "postcode": "235099",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6PMC",
+   "recipient": "BG6PMC",
+   "address": "河南省商丘市南京中路温馨家园",
+   "postcode": "476000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG6UFZ",
+   "recipient": "BG6UFZ",
+   "address": "湖北宜昌市伍家岗区东站路梧桐邑小区",
+   "postcode": "443000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7DTK",
+   "recipient": "BG7DTK肖少春",
+   "address": "河南省南阳市卧龙区张衡街道四福井小区18栋",
+   "postcode": "473000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7JYZ",
+   "recipient": "BG7JYZ",
+   "address": "广东省深圳市罗湖区清水河街道银湖蓝山六栋二单元27B",
+   "postcode": "518024",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7QJE",
+   "recipient": "BG7QJE杜沅霖",
+   "address": "广西壮族自治区南宁市青秀区云景路38号2栋2单元",
+   "postcode": "530025",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7QOA",
+   "recipient": "BG7QOA李宗保",
+   "address": "广西南宁市五一路丽江村小区菜鸟驿站",
+   "postcode": "530031",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7SSA",
+   "recipient": "BG7SSA李宗保",
+   "address": "广西南宁市五一路丽江村小区菜鸟驿站",
+   "postcode": "530031",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7UZR",
+   "recipient": "BG7UZR",
+   "address": "广西桂林市象山区铁西四里北斗2016小区",
+   "postcode": "541002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7XCX",
+   "recipient": "BG7XCX（BG7WJH 代收）",
+   "address": "广西桂林市象山区铁西四里北斗2016小区",
+   "postcode": "541002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG7XQM",
+   "recipient": "BG7XQM",
+   "address": "广西南宁市西乡塘区大学西路169号南宁职业技术大学",
+   "postcode": "530008",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8AMG",
+   "recipient": "BG8AMG罗军",
+   "address": "四川省成都市龙泉驿区北京路182号",
+   "postcode": "610100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8KUQ",
+   "recipient": "BG8KUQ刘先生",
+   "address": "重庆市南岸区南坪西路32号",
+   "postcode": "400060",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8KUV",
+   "recipient": "BG8KUV",
+   "address": "重庆市渝中区白象街58号",
+   "postcode": "400012",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8LGF",
+   "recipient": "BG8LGF陈林",
+   "address": "重庆市綦江区通惠大道56号附78号嘉惠新城车库出口",
+   "postcode": "401420",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8LKT",
+   "recipient": "BG8LKT刘世礁",
+   "address": "重庆市两江新区星光五路三号一期",
+   "postcode": "401121",
+   "cards": 2,
+   "flag": "该呼号有多条不同地址/收信人，已取最新日期的一条，请核对"
+  },
+  {
+   "callsign": "BG8LNG",
+   "recipient": "BG8LNG汪朝纲",
+   "address": "重庆市南岸区南滨路东原1891 C馆 L4层",
+   "postcode": "400000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8LYV",
+   "recipient": "BG8LYV冯紫琳",
+   "address": "重庆市九龙坡区叠彩西城A区3栋2006",
+   "postcode": "400052",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG8SYW",
+   "recipient": "BG8SYW 唐浩",
+   "address": "云南省昆明市五华区高新小屯汽车城管理办公室",
+   "postcode": "650000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG9DYJ",
+   "recipient": "BG9DYJ党俊鹏",
+   "address": "陕西省韩城市新城区韩电竹青小区16 栋531",
+   "postcode": "715400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG9IVV",
+   "recipient": "BG9IVV",
+   "address": "甘肃省兰州市城关区雁园路街道华润二十四城2期9号楼3301",
+   "postcode": "730000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG9JDI",
+   "recipient": "BG9JDI李宇翔",
+   "address": "甘肃省兰州市安宁区安宁西路88号兰州交通大学",
+   "postcode": "730070",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BG9JPJ",
+   "recipient": "BG9JPJ任文旭",
+   "address": "甘肃省庆阳市庆城县庆城镇田家城49号中油测井长庆分公司陇东项目部",
+   "postcode": "745100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH1LKO",
+   "recipient": "BH1LKO杨先生",
+   "address": "北京市朝阳区柳芳北里22楼2门201号",
+   "postcode": "100028",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH1OHX",
+   "recipient": "BH1OHX周俊",
+   "address": "北京市朝阳区望京街道大西洋新城508号楼1单元9A",
+   "postcode": "100102",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH1UHC",
+   "recipient": "BH1UHC周奕杨",
+   "address": "北京市通州区玉带河东街 北小园1号楼461",
+   "postcode": "101101",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH1WVM",
+   "recipient": "BH1WVM",
+   "address": "北京市朝阳区青年路北口姚家园东里8号院1号楼1单元1902",
+   "postcode": "100123",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH1XEC",
+   "recipient": "BH1XEC",
+   "address": "北京市房山区拱辰街道天星街1号院6号楼1006室",
+   "postcode": "102445",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH2RJL",
+   "recipient": "BH2RJL杨文志",
+   "address": "辽宁省葫芦岛市龙港区马杖房街道晟日华庭小区二号楼二单元602",
+   "postcode": "125001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH2XHI",
+   "recipient": "BH2XHI王闯",
+   "address": "陕西省西安市鄠邑区丰京路560号西安石油大学鄠邑校区",
+   "postcode": "710399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH2XIH",
+   "recipient": "BH2XIH 高博",
+   "address": "辽宁省辽阳市宏伟区东环路0-3号 辽阳石化油化部",
+   "postcode": "111003",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH2XPS",
+   "recipient": "BH2XPS王明奇",
+   "address": "辽宁省沈阳市于洪区赤山路59-1号",
+   "postcode": "110148",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3DBF",
+   "recipient": "BH3DBF韩笑宇",
+   "address": "北京市海淀区100038-5分箱",
+   "postcode": "100038",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3FND",
+   "recipient": "BH3FND李红影",
+   "address": "河北省唐山市迁安市第二中学警卫室",
+   "postcode": "064400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3HAE",
+   "recipient": "BH3HAE",
+   "address": "内蒙古自治区鄂尔多斯市康巴什区胜达祥和嘉苑小区",
+   "postcode": "017000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3HMP",
+   "recipient": "BH3HMP郭昕",
+   "address": "内蒙古包头市青山区科学路2号青东华庭008信报箱",
+   "postcode": "014030",
+   "cards": 2,
+   "flag": "该呼号有多条不同地址/收信人，已取最新日期的一条，请核对"
+  },
+  {
+   "callsign": "BH3HSZ",
+   "recipient": "BH3HSZ盖先生",
+   "address": "内蒙古包头市稀土高新区科技路美室无双",
+   "postcode": "014000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3MPM",
+   "recipient": "BH3MPM庄兴硕",
+   "address": "河北省唐山市丰南区大齐各庄镇林屯村",
+   "postcode": "063302",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3NZN",
+   "recipient": "BH3NZN张嘉炜",
+   "address": "河北省唐山市迁安市燕山大路最北段百万车行",
+   "postcode": "064400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH3SCJ",
+   "recipient": "BH3SCJ刘彦军",
+   "address": "山西省阳泉市华阳集团综合部车管室",
+   "postcode": "045008",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4GDF",
+   "recipient": "BH4GDF",
+   "address": "上海市浦东新区方竹路789弄25号701室",
+   "postcode": "201306",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4GVF",
+   "recipient": "BH4GVF",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "210399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4HFJ",
+   "recipient": "BH4HFJ",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4HLI",
+   "recipient": "BH4HLI",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4HLM",
+   "recipient": "BH4HLM",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4HZQ",
+   "recipient": "BH4HZQ刘海东",
+   "address": "上海市浦东新区锦绣路5088弄10号楼34单元2609室",
+   "postcode": "200135",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4OSL",
+   "recipient": "BH4OSL李建福",
+   "address": "山东潍坊潍城区余庆园2号楼2单元903室",
+   "postcode": "261011",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4PSA",
+   "recipient": "BH4PSA杨通",
+   "address": "山东省寿光市圣城街道东郭古街乐享健康",
+   "postcode": "262700",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4THI",
+   "recipient": "BH4THI陈锡明",
+   "address": "江苏省无锡市惠山区玉祁街道玉蓉村陈家村110号",
+   "postcode": "214183",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4TNQ",
+   "recipient": "BH4TNQ卢庆",
+   "address": "江苏省江阴市寿山路126号202室",
+   "postcode": "214400",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH4UTT",
+   "recipient": "BH4UTT陈健",
+   "address": "江苏省南通市工农路436号钱新花园4栋501室",
+   "postcode": "226001",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH5EIJ",
+   "recipient": "BH5EIJ王康",
+   "address": "浙江省嘉兴市南湖区长水街道河畔名邸12-1402",
+   "postcode": "314000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH5FAE",
+   "recipient": "BH5FAE徐辉",
+   "address": "浙江省台州市天台县朝晖街48号后门501室",
+   "postcode": "317200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH6AHA",
+   "recipient": "BH6AHA(BH6AGP代收)",
+   "address": "安徽省蚌埠市禹会区涂山路512号金域名城北门兔喜快递超市（代收）",
+   "postcode": "233010",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH6BSY",
+   "recipient": "BH6BSY李伟平",
+   "address": "安徽省合肥市蜀山区九龙路111号安徽大学磬苑校区邮局",
+   "postcode": "230601",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH6JOG",
+   "recipient": "BH6JOG",
+   "address": "河南省信阳市木机场家属院40号楼102",
+   "postcode": "464300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH6KWC",
+   "recipient": "BH6KWC仝先生",
+   "address": "河南省洛阳新安县北京路加油站对面江河旅业平台停车场",
+   "postcode": "471800",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH6QCE",
+   "recipient": "BH6QCE",
+   "address": "湖北省随州市曾都区舜井大道9号中房2号楼东单元信箱",
+   "postcode": "441399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH7DZV",
+   "recipient": "BH7DZV尹先生",
+   "address": "湖南省长沙市望城区乌山街道高冲路望天悦小区 6栋",
+   "postcode": "410203",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH7MML",
+   "recipient": "BH7MML汤锐斌",
+   "address": "广东省广州市海珠区滨江东路452号504房",
+   "postcode": "510230",
+   "cards": 3,
+   "flag": "该呼号有多条不同地址/收信人，已取最新日期的一条，请核对"
+  },
+  {
+   "callsign": "BH7NI",
+   "recipient": "BH7NI杨潇",
+   "address": "广东深圳市龙岗区坂田街道富豪花园",
+   "postcode": "518100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH8AVW",
+   "recipient": "BH8AVW",
+   "address": "四川省绵阳市游仙区三星小区",
+   "postcode": "621024",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH8BMZ",
+   "recipient": "BH8BMZ孙贵东",
+   "address": "四川省绵阳市涪城区桃园路168号",
+   "postcode": "621000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH8GH",
+   "recipient": "BH8GH国赫电子",
+   "address": "重庆市江北区曙光工业园E区F1栋15-1",
+   "postcode": "400000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH8RCK",
+   "recipient": "BH8RCK田祖炜",
+   "address": "贵州省贵阳市云岩区茶园路野鸭塘街道",
+   "postcode": "550022",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH8VRO",
+   "recipient": "BH8VRO白浩",
+   "address": "云南省昆明市盘龙区北京路金安小区001信箱",
+   "postcode": "650224",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BH9CXY",
+   "recipient": "BH9CXY郭滨",
+   "address": "陕西省咸阳市秦都区渭滨街道中华西路4号建设大厦16层无线电监测站03室",
+   "postcode": "712000",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BH9FPK",
+   "recipient": "BH9FPK 谭龙飞",
+   "address": "陕西省宝鸡市陈仓区慕仪镇慕仪村四组178号",
+   "postcode": "721300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BH9FRB",
+   "recipient": "HamCQ 卡片工作组（收）",
+   "address": "云南省昆明市官渡区春城路 20 号 599-30 信箱",
+   "postcode": "650011",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI1FRJ",
+   "recipient": "BI1FRJ李昭",
+   "address": "北京市西城区月坛街道白云观街9号北京敕建白云观",
+   "postcode": "100045",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI1KBU",
+   "recipient": "BI1KBU王绍铭",
+   "address": "北京市昌平区太行路55号北京信息科技大学沙河校区",
+   "postcode": "102206",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI1SQH",
+   "recipient": "BI1SQH魏广",
+   "address": "北京市朝阳区望京街道南湖西里社区24号楼2单元602室",
+   "postcode": "100102",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI1TMQ",
+   "recipient": "BI1TMQ",
+   "address": "北京市海淀区毛纺路6号院橡林郡小区6-2-903",
+   "postcode": "100085",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI1UHW",
+   "recipient": "BI1UHW",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI2QFA",
+   "recipient": "BI2QFA",
+   "address": "辽宁省辽阳市白塔区东大街306-14三单元255信箱",
+   "postcode": "111000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3AHG",
+   "recipient": "BI3AHG王浦臣",
+   "address": "天津市津南区天津大学北洋园校区36教力学大楼410室",
+   "postcode": "300354",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3BOW",
+   "recipient": "BI3BOW",
+   "address": "江苏省南京市玄武区卫岗一号南京农业大学",
+   "postcode": "210095",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3MLA",
+   "recipient": "BI3MLA郑建国",
+   "address": "河北省衡水市枣强县胜利北路与平原东街路口南行50米路东幸福家园",
+   "postcode": "053100",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3OGV",
+   "recipient": "BI3OGV王坤",
+   "address": "河北省唐山市路北区华宁景苑南区8-1-901信箱",
+   "postcode": "063000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3PIE",
+   "recipient": "BI3PIE 张峰箫",
+   "address": "河北省唐山市路北区缸窑街道5号小区231楼1单元唐山无线电2号信箱",
+   "postcode": "063000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3SVW",
+   "recipient": "BI3SVW刘俊",
+   "address": "山西大同市平城区御东古城家园B区",
+   "postcode": "037009",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3TPQ",
+   "recipient": "BI3TPQ任哲奇",
+   "address": "山西省晋城市泽州县金村镇黄头村",
+   "postcode": "048026",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3VRR",
+   "recipient": "BI3VRR（张皓代收)",
+   "address": "山西省临汾市洪洞县一四四勘察院",
+   "postcode": "041600",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI3XZU",
+   "recipient": "BI3XZU蔡炎培",
+   "address": "河北省唐山市迁西县迁西县栗乡街道扶儿堂小儿推拿",
+   "postcode": "064300",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4AEI",
+   "recipient": "Yuki Nix",
+   "address": "上海市 奉贤区 沪杭公路 228 弄 3 号楼 1107 室",
+   "postcode": "201401",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4AOO",
+   "recipient": "BI4AOO",
+   "address": "上海市 399-5 邮政信箱",
+   "postcode": "201399",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4BQJ",
+   "recipient": "BI4BQJ",
+   "address": "上海市宝山区涵青路398弄5号1001室",
+   "postcode": "200444",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4MZJ",
+   "recipient": "BI4MZJ王珂",
+   "address": "山东省济宁市兖州区酒仙桥街道铁路新苑小区7号楼1单元502",
+   "postcode": "272199",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4PPP",
+   "recipient": "BI4PPP",
+   "address": "山东省淄博市高青县青城路51-2号大武鸣美发沙龙",
+   "postcode": "256304",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4RBD",
+   "recipient": "朱建栋",
+   "address": "江苏省常州市钟楼区勤业朱家村388号",
+   "postcode": "213000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI4UMB",
+   "recipient": "严勤军（BI4UMB）",
+   "address": "江苏省扬州市广陵区李典镇伏业村吴桥组90号",
+   "postcode": "225000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6AN",
+   "recipient": "BI6AN皖数通信",
+   "address": "安徽省合肥市1005号邮政信箱",
+   "postcode": "230041",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6LWM",
+   "recipient": "BI6LWM刘宁",
+   "address": "河南省郑州市管城区郑新路十八里河新区一号院",
+   "postcode": "450061",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6NSK",
+   "recipient": "BI6NSK许勇",
+   "address": "河南省许昌市长葛市长社路金丰花园1-2号",
+   "postcode": "461500",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6NYO",
+   "recipient": "zhang zhenjun（BI6NYO）",
+   "address": "河南省新乡市牧野区牧野乡西曲里153号",
+   "postcode": "453002",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6OKX",
+   "recipient": "BI6OKX谢春秋",
+   "address": "河南省郑州市金水区正商恒钻8号楼2101",
+   "postcode": "450003",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6OOK",
+   "recipient": "BI6OOK王宗强",
+   "address": "河南省郑州市经开区郑州经开综合保税区管理委员会",
+   "postcode": "450016",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI6PWL",
+   "recipient": "BI6PWL刘春海",
+   "address": "河南省郑州市中原区岳岗社区南苑9-1-501室",
+   "postcode": "450007",
+   "cards": 2,
+   "flag": ""
+  },
+  {
+   "callsign": "BI7BNO",
+   "recipient": "万璟锐BI7BNO",
+   "address": "湖南长沙市开福区四方坪街道金帆小区24栋706房",
+   "postcode": "410003",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI7JAC",
+   "recipient": "BI7JAC",
+   "address": "广东省广州市越秀区水荫直街西一巷七号702房",
+   "postcode": "510000",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI8AD",
+   "recipient": "BI8AD",
+   "address": "四川省成都市双流区东升街道白衣上街84号",
+   "postcode": "610200",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI8AQ",
+   "recipient": "BI8AQ前方俱乐部",
+   "address": "四川省成都市锦江区棣棠路838号",
+   "postcode": "610023",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI8EJM",
+   "recipient": "BI8EJM朱朝兵",
+   "address": "四川省成都市邛崃市大同古镇同盛小区",
+   "postcode": "611545",
+   "cards": 3,
+   "flag": "该呼号有多条不同地址/收信人，已取最新日期的一条，请核对"
+  },
+  {
+   "callsign": "BI8SCC",
+   "recipient": "BI8SCC",
+   "address": "云南省西双版纳傣族自治州景洪市嘎栋工业园区曼沙村46号",
+   "postcode": "666114",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI9AME",
+   "recipient": "BI9AME HamCQ 卡片工作组",
+   "address": "云南省昆明市官渡区春城路 20 号 599-51信箱",
+   "postcode": "650011",
+   "cards": 1,
+   "flag": ""
+  },
+  {
+   "callsign": "BI9CNJ",
+   "recipient": "BI9CNJ丁睿",
+   "address": "陕西省西安市雁塔区丈八五路10号",
+   "postcode": "710071",
+   "cards": 3,
+   "flag": ""
+  },
+  {
+   "callsign": "BY1BY",
+   "recipient": "BY1BY杨鸿文",
+   "address": "北京市邮政100088-3邮箱",
+   "postcode": "100088",
+   "cards": 1,
+   "flag": ""
+  }
+ ],
+ "need_address": [
+  "BA4IE",
+  "BD3PKB",
+  "BD6RN",
+  "BD8DMM",
+  "BG1SB",
+  "BG2EFY",
+  "BG2GNR",
+  "BG2LNV",
+  "BG5CPW",
+  "BG5VGK",
+  "BG9GXM",
+  "BH4GTG",
+  "BH4RGF",
+  "BH5HFK",
+  "BH7MMZ",
+  "BI1SPE",
+  "BI8AWT"
+ ]
+}
